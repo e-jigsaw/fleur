@@ -14,14 +14,14 @@
     "@types/eventemitter3": "^2.0.2",
     "@types/flux-standard-action": "1.1.0",
     "@types/invariant": "2.2.29",
-    "cache-loader": "1.2.2",
+    "cache-loader": "3.0.0",
     "eventemitter3": "3.1.0",
-    "jest": "23.6.0",
-    "ts-jest": "23.10.4",
-    "typescript": "3.2.2"
+    "jest": "24.7.1",
+    "ts-jest": "24.0.2",
+    "typescript": "3.4.4"
   },
   "dependencies": {
-    "immer": "1.8.0",
+    "immer": "3.1.1",
     "invariant": "2.2.4"
   }
 }

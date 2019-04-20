@@ -7,10 +7,10 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "23.6.0"
+    "jest": "24.7.1"
   },
   "dependencies": {
     "fluxible": "^1.4.0",
-    "fluxible-addons-react": "0.2.15"
+    "fluxible-addons-react": "0.2.16"
   }
 }
